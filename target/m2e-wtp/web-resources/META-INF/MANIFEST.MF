@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: cassconta
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cassimiro
+Build-Jdk: 1.7.0_80
+Built-By: rogerio
+Created-By: Maven Integration for Eclipse
+Main-Class: com.cassconta.CassContaApplication
+
